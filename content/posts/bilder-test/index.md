@@ -12,6 +12,14 @@ Test erfolgreich!
 
 
 
+{{<box>}}
+
+Der Inhalt einer Box muss wie hier von zwei Blöcken umgeben werden.
+
+{{</box>}}
+
+
+
 
 
 alsdkfjalskdf
